@@ -84,6 +84,12 @@ npx expo start --tunnel
 
     🛠️ Admin dashboard for city staff
 
+## 📱 Scan to Try It Out
+
+Scan the QR code below using the **Expo Go** app:
+
+![QR Code](./assets/QR.png)
+
 🙌 Acknowledgements
 
     Expo

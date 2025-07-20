@@ -14,7 +14,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rituraj.fixmycity"
     },
     "android": {
       "adaptiveIcon": {
@@ -26,6 +27,21 @@
     "web": {
       "bundler": "metro",
       "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-web-browser"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "507c6e15-a43b-4f8a-bdf6-2d6f4b912ceb"
+      }
+    },
+    "owner": "riturajgharat",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/507c6e15-a43b-4f8a-bdf6-2d6f4b912ceb"
     }
   }
 }

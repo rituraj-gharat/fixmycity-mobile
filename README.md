@@ -97,7 +97,7 @@ npx expo start --tunnel
   📬 Contact
 
 Rituraj Gharat
-📧 riturajgharat@gmail.com
-🌐 LinkedIn | GitHub
+📧 rgharat1@asu.edu | riturajgharat.14@gmail.com
+🌐 [LinkedIn](https://www.linkedin.com/in/riturajgharat/) | [GitHub](https://github.com/rituraj-gharat)
 
 Feel free to ⭐ this repo if you found it helpful!

@@ -2,9 +2,26 @@
 
 FixMyCity is a mobile-first civic issue reporting platform that empowers citizens to report problems—like potholes, broken streetlights, or trash dumps—directly from their smartphones. The app captures geolocation, description, and photo of the issue and sends it to a backend dashboard for city officials to manage and resolve.
 
-## ⬇️  Demo  ⬇️ 
+## ⬇️ Demo ⬇️
 
-https://github.com/user-attachments/assets/7f0fb19c-95b9-4be2-b157-194bf0e2d502
+<div align="center">
+  <video width="180" height="200" src="https://github.com/user-attachments/assets/7f0fb19c-95b9-4be2-b157-194bf0e2d502" controls style="border: 1px solid #bbb; border-radius: 6px;"></video>
+  <br/>
+  <em>FixMyCity mobile demo — empowering fast civic reporting 🏙️</em>
+</div>
+
+## Screenshots
+
+<img width="100" height="200" alt="IMG_4205" src="https://github.com/user-attachments/assets/caa73791-b08e-4677-b34b-cfd9974cfa0b" />
+
+<img width="100" height="200" alt="IMG_4206" src="https://github.com/user-attachments/assets/9bf40abe-1120-4e38-b193-ae5e4ab3c639" />
+
+<img width="100" height="200" alt="IMG_4210" src="https://github.com/user-attachments/assets/77a6104e-ebe8-4e7d-a8eb-12aba4710898" />
+
+<img width="100" height="200" alt="IMG_4211" src="https://github.com/user-attachments/assets/ddd4bcc3-c54e-470b-975f-75aa7f51b1a0" />
+
+
+
 
 
 ## 📱 Features

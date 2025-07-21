@@ -4,7 +4,8 @@ FixMyCity is a mobile-first civic issue reporting platform that empowers citizen
 
 ## 👉 Demo 👈
 
-[![Watch the demo](https://img.youtube.com/vi/GJkW8haIReU/hqdefault.jpg)](https://youtube.com/shorts/GJkW8haIReU)
+<video src="assets/demo.MP4" controls width="600"></video>
+
 
 ## 📱 Features
 

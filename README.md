@@ -7,14 +7,6 @@ FixMyCity is a mobile-first civic issue reporting platform that empowers citizen
 https://github.com/user-attachments/assets/7f0fb19c-95b9-4be2-b157-194bf0e2d502
 
 
-
-<video src="assets/demo.MP4" 
-
-https://github.com/user-attachments/assets/b7a44fe6-1dd4-4976-a4ef-2ea7842bd453
-
-ontrols width="600"></video>
-
-
 ## 📱 Features
 
 - 📍 Report civic issues with location and image
